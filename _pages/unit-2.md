@@ -3,11 +3,7 @@ post_title: 'Unit 2'
 layout: page
 published: true
 ---
----
-post_title: 'unit 2'
-layout: page
-published: true
----
+
 ### unit 2  
 ##### Overview
 
