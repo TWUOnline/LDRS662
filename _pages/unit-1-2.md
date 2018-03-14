@@ -1,7 +1,13 @@
 ---
-post_title: 'Unit 1'
+ID: 82
+post_title: Unit 1
+author: Colin Madland
+post_excerpt: ""
 layout: page
+permalink: >
+  https://create.twu.ca/ldrs662-fa18/unit-1-2/
 published: true
+post_date: 2018-03-14 22:14:09
 ---
 ### Unit 1  
 ##### Overview

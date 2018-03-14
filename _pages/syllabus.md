@@ -1,7 +1,13 @@
 ---
-post_title: 'Syllabus'
+ID: 76
+post_title: Syllabus
+author: Colin Madland
+post_excerpt: ""
 layout: page
+permalink: >
+  https://create.twu.ca/ldrs662-fa18/syllabus/
 published: true
+post_date: 2018-03-14 22:14:09
 ---
 ### Trinity Western University
 ### Program

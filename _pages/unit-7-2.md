@@ -1,20 +1,25 @@
 ---
-post_title: 'Unit 9'
+ID: 122
+post_title: Unit 7
+author: Colin Madland
+post_excerpt: ""
 layout: page
+permalink: >
+  https://create.twu.ca/ldrs662-fa18/unit-7-2/
 published: true
+post_date: 2018-03-14 22:14:10
 ---
-
-### Unit 9  
+### Unit 7  
 ##### Overview
 
-Welcome to COURSE!  In this first unit, we begin the course by…
+Welcome to Unit 7!  In this first unit, we begin the course by…
 ```
 Here is where we want to hook our students!  Consider what main ideas are in the unit, questions students may have, and  how these apply to practice or the bigger picture.  We also may want to include certain tasks, mentioning some readings or assignments.
 The important thing is to gain students attention and interest so they are motivated throughout the unit.
 ```
 
 ##### Topics
-Unit 9 is divided into __ topics:
+Unit 7 is divided into __ topics:
 * Topic 1:
 * Topic 2:
 * Topic 3:
@@ -52,7 +57,7 @@ These are usually non-graded, and can be optional for students, however they are
 | Assignment 1:| | |
 
 ##### Assessment
-Here is the assessment for Unit 9.
+Here is the assessment for Unit 7.
 Assignment 1: …
 %
 ```
@@ -61,7 +66,7 @@ If there are a number of learning activities above, it may be helpful to split u
 
 ## Topic 1:
 ### Introduction
-We begin Unit 9…
+We begin Unit 7…
 ```
 Topic content can be 1-2 paragraphs or several pages, depending of course on the topic!  Consider using graphics, charts, or other images to convey information and appeal to visual learners.
 ```
@@ -177,7 +182,7 @@ Many of the more creative assignments can be combined with a reflective paper to
 After completing this unit, including the learning activities, you are asked to…
 For more details about this assignment, including the grading criteria, please refer to the Assignment page.
 
-## Unit 9 Summary
+## Unit 7 Summary
 ```
 Remind students of a few key points and how they apply to a greater context.  Perhaps also prepare them for what is in the next unit.
 ```

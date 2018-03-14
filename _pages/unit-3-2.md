@@ -1,10 +1,15 @@
 ---
-post_title: 'Unit 4'
+ID: 98
+post_title: Unit 3
+author: Colin Madland
+post_excerpt: ""
 layout: page
+permalink: >
+  https://create.twu.ca/ldrs662-fa18/unit-3-2/
 published: true
+post_date: 2018-03-14 22:14:09
 ---
-
-### Unit 4
+### Unit 3  
 ##### Overview
 
 Welcome to COURSE!  In this first unit, we begin the course by…
@@ -14,7 +19,7 @@ The important thing is to gain students attention and interest so they are motiv
 ```
 
 ##### Topics
-Unit 4 is divided into __ topics:
+Unit 3 is divided into __ topics:
 * Topic 1:
 * Topic 2:
 * Topic 3:
@@ -52,7 +57,7 @@ These are usually non-graded, and can be optional for students, however they are
 | Assignment 1:| | |
 
 ##### Assessment
-Here is the assessment for Unit 4.
+Here is the assessment for Unit 3.
 Assignment 1: …
 %
 ```
@@ -61,7 +66,7 @@ If there are a number of learning activities above, it may be helpful to split u
 
 ## Topic 1:
 ### Introduction
-We begin unit 4…
+We begin Unit 3…
 ```
 Topic content can be 1-2 paragraphs or several pages, depending of course on the topic!  Consider using graphics, charts, or other images to convey information and appeal to visual learners.
 ```
@@ -177,7 +182,7 @@ Many of the more creative assignments can be combined with a reflective paper to
 After completing this unit, including the learning activities, you are asked to…
 For more details about this assignment, including the grading criteria, please refer to the Assignment page.
 
-## unit 4 Summary
+## Unit 3 Summary
 ```
 Remind students of a few key points and how they apply to a greater context.  Perhaps also prepare them for what is in the next unit.
 ```

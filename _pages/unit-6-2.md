@@ -1,9 +1,14 @@
 ---
-post_title: 'Unit 6'
+ID: 116
+post_title: Unit 6
+author: Colin Madland
+post_excerpt: ""
 layout: page
+permalink: >
+  https://create.twu.ca/ldrs662-fa18/unit-6-2/
 published: true
+post_date: 2018-03-14 22:14:10
 ---
-
 ### Unit 6  
 ##### Overview
 
